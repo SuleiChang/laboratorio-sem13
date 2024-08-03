@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5bbef5b6-1b50-4fd5-a8ae-91813b439d0f)# Laboratorio - 13
+# Laboratorio - 13
 
 ## Description
 
